@@ -1,5 +1,7 @@
 /*
 Programa que utilice las 5 estructuras de control while, do while, for,if , switch
+c.joseanguiano@gmail.com //Para cualquier duda ;D
+https://github.com/cjoseanguiano/EstructurasDeControl
  */
 package estructurasdecontrol;
 
@@ -11,9 +13,6 @@ import javax.swing.JOptionPane;
  */
 public class EstructurasDeControl {
 
-    /**
-     * @param args the command line arguments
-     */
     public int a = 0;
 
     public static void main(String[] args) {
